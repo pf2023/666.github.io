@@ -2,7 +2,7 @@
     "name": "redux-pf",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://mydemo.github.io/myapp",
+    "homepage": "https://pf2023.github.io/redux-pf",
     "dependencies": {
         "@babel/core": "7.2.2",
         "@svgr/webpack": "4.1.0",
